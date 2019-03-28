@@ -1,0 +1,3 @@
+# The-bivariate-GS
+
+Genomic selection (GS) facilitates the rapid selection of superior genotypes and accelerates the breeding cycle. Various GS methods based on univariate model, which analyze a single trait at a time, have prevailed for over a decade. Whereas, the multivariate GS models have not been adequately studied and their potential advantages over univariate GS models remain unclear. Therefore, we developed a highly efficient bivariate (2D) BLUP GS model to further improve predictabilities for two traits than those achieved by the analysis of individual traits using the univariate (1D) BLUP GS model.
